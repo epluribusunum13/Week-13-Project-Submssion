@@ -5,7 +5,7 @@ The files in this repository were used to configure the network depicted below.
 
 **Note**: The following image link needs to be updated. Replace `Diagram.png` with the name of your diagram image file.
 
-![TODO: Update the path with the name of your diagram](/Week-13-Project-Submssion/Diagram Correct.PNG)
+https://drive.google.com/file/d/19a84gdNCeeRhTcAYZMsFdUyGDxCh-f3q/view?usp=sharing (Link to Diagram, could not get image in Readme File for some reason)
 
 These files have been tested and used to generate a live ELK deployment on Azure. They can be used to either recreate the entire deployment pictured above. Alternatively, select portions of the PLAYBOOK file may be used to install only certain pieces of it, such as Filebeat.
 
@@ -78,7 +78,7 @@ The following screenshot displays the result of running `docker ps` after succes
 
 **Note**: The following image link needs to be updated. Replace `docker_ps_output.png` with the name of your screenshot image file.
 
-![TODO: Update the path with the name of your screenshot of docker ps output](Images/docker_ps_output.png)
+https://drive.google.com/file/d/1BNxqbHeUCNMes_tjEL5eBjCMagamOO6X/view?usp=sharing (Link to screenshot could not get image in Readme File for some reason)
 
 ### Target Machines & Beats
 
